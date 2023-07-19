@@ -9,7 +9,7 @@
 
   <h4>Data Engineer</h4>
   <p>
-    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
+    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />  
   </p>
   
   <h4>Software Engineer</h4>
@@ -43,5 +43,3 @@
 
 <h3>My Resume</h3>
 <a href="https://github.com/Amraneze/amraneze/raw/main/resume/AIT_ZEOUAY_AMRANE_FRENCH_CV.pdf" target="_blank">French</a>
-
-<a href="https://github.com/Amraneze/amraneze/raw/main/resume/AIT_ZEOUAY_AMRANE_ENGLISH_CV.pdf" target="_blank">English</a>
